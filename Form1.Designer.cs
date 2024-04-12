@@ -1,6 +1,6 @@
 using System.Windows.Forms;
 
-namespace Lab_15_OOP_Dykyi
+namespace Lab_15_OOP_Shostya
 {
     partial class Form1
     {
