@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{C9516C5A-F98A-4574-B6B7-F04779D54A35}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Lab_15_OOP_Dikiy</RootNamespace>
-    <AssemblyName>Lab 15 OOP Dikiy</AssemblyName>
+    <RootNamespace>Lab_15_OOP_Shostya</RootNamespace>
+    <AssemblyName>Lab 15 OOP Shostya</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
